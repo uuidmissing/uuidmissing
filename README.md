@@ -3,7 +3,8 @@
 
 ![](https://img.shields.io/badge/Foco-Seguran%C3%A7a%20Ofensiva%20%7C%20Bug%20Bounty%20%26%20Pentest-2ea44f?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-![Terminal Profile](./assets/carbon.png)
+<!-- ![Terminal Profile](./assets/carbon.png) -->
+
 
 
 # 💻 Estudando e Aprendendo:
