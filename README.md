@@ -21,3 +21,12 @@ Estudante de T.I e Segurança Ofensiva
 <a href="http://www.github.com/uuidmissing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uuidmissing&stroke=6366f1&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=6366f1&currStreakLabel=3382ed&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
 <a href="https://github.com/uuidmissing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuidmissing&langs_count=10&title_color=3382ed&text_color=6366f1&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[uuidmissing]/[uuidmissing]/output/[pacman]-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uuidmissing/uuidmissing/output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/uuidmissing/uuidmissing/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
